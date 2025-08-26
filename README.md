@@ -35,6 +35,6 @@ The main goal is to clean and prepare the raw data, then build a **dynamic Excel
 
 ---
  
-
+![Dashboard](https://github.com/AhmedMedhatFarouk/tabali-sales-analysis-2024-2025/blob/main/WhatsApp%20Image%202025-08-18%20at%2010.39.33%20PM.jpeg)
 ```markdown
 ![Dashboard](screenshot.png)
