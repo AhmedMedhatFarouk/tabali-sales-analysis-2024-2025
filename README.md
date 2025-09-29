@@ -1,8 +1,7 @@
-# Tabali Sales Analysis (July 2024 vs 2025)
+# Phone Sales Project
 
 ## 📌 Project Overview
-This project analyzes Tabali’s sales data for **July 2024 vs July 2025** using **Excel only**.  
-The main goal is to clean and prepare the raw data, then build a **dynamic Excel dashboard** to compare sales performance and quantities between both years.
+This project involved building an Amazon Sales Dashboard in Excel to analyze product performance and pricing trends. The workflow included data cleaning and transformation with Power Query, creating data models and KPIs with Power Pivot, and using Pivot Tables & Charts to visualize key metrics. The final deliverable is an interactive dashboard with slicers for filtering by brand and clear visuals for decision-making.
 
 ---
 
@@ -27,12 +26,19 @@ The main goal is to clean and prepare the raw data, then build a **dynamic Excel
 
 ---
 
-## 📊 Dashboard Highlights
-- Year-over-Year comparison (2024 vs 2025)  
-- Total Sales & Quantity differences  
-- Top-performing products  
-- Interactive slicers for filtering  
+## 📊 Dashboard Insights
 
+Total Sales Volume: $156,200 across 336 products.
+
+Brand Market Share: Apple, Samsung, and other leading brands compared by share.
+
+Price vs. Rating Analysis: Shows how product pricing levels align with average star ratings.
+
+Top 5 Products by Price: Highlights the most expensive items and their contribution.
+
+Price Distribution: Breakdown of products across price ranges (0–100, 100–300, 300–500).
+
+KPI Cards: Quick overview of total sales and product count for instant insights
 ---
  
 ![Dashboard](https://github.com/AhmedMedhatFarouk/tabali-sales-analysis-2024-2025/blob/main/WhatsApp%20Image%202025-08-18%20at%2010.39.33%20PM.jpeg)
